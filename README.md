@@ -1,7 +1,6 @@
 # calculator
 
-A new Flutter project.
-
+This is the sample application of calculation built for learning purpose of flutter to gain some basic knowledge about UI and functionality of flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
